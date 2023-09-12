@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "find-me",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "How to find ip while Connection",
   "main": "index.js",
   "scripts": {
