@@ -21,7 +21,7 @@
     "me"
   ],
   "author": "Wildy Johanes Simanjuntak",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "node-fetch": "^3.3.2"
   }
