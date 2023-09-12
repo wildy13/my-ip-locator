@@ -7,13 +7,13 @@ Uses [ipinfo.io](https://ipinfo.io/json) to query information.
 
 Install
 -------
-	npm i --save find-me
+	npm i --save my-ip-locator
 
 
 Usage
 ------
 ```js
-import getMyIp from './find-me';
+import getMyIp from './my-ip-locator';
 
 
 async function fetchData() {
