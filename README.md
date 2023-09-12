@@ -13,7 +13,7 @@ Install
 Usage
 ------
 ```js
-import getMyIp from './my-ip-locator';
+import getMyIp from 'my-ip-locator';
 
 
 async function fetchData() {
