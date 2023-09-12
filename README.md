@@ -43,4 +43,4 @@ Outputs:
 License
 -------
 
-MIT - Copyright (c) [Wildy Johanes Simanjunta](https://github.com/wildy13)
+MIT - Copyright (c) [Wildy Johanes Simanjuntak](https://github.com/wildy13)
