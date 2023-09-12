@@ -1,4 +1,4 @@
-find-me
+MY-IP-LOCATOR
 ============
 
 > Fetch the location of an  ip address, city, region, country, and location while connection.
