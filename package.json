@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "find-me",
+  "version": "1.0.0",
+  "description": "How to find ip while Connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "location",
+    "coordinates",
+    "latitude",
+    "longitude",
+    "host",
+    "name",
+    "networking",
+    "maxmind",
+    "find",
+    "me"
+  ],
+  "author": "Wildy Johanes Simanjuntak",
+  "license": "ISC",
+  "devDependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
